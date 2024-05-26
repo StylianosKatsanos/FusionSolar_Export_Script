@@ -6,4 +6,4 @@ to a specific timestamp and provides energy data from the PV plant inverters for
 
 In order for the script to export data, there must be an input of:
 username, password, PV plant station(name & code), 
-starting date, days interval and total amount of days of acquiring data.
+starting date, days interval and total amount of days for acquiring data.
